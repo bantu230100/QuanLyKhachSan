@@ -1,0 +1,69 @@
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\BUS.dll
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\DAO.dll
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\DTO.dll
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\DAO.dll.config
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\obj\Debug\BUS.dll
+C:\Users\User\Downloads\QuanLiKhachSan\BUS\obj\Debug\BUS.pdb
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\BUS.dll
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\DAO.dll
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\DTO.dll
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\DAO.pdb
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\DAO.dll.config
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\DTO.pdb
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\obj\Debug\BUS.dll
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\BUS\obj\Debug\BUS.pdb
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\BUS.dll
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\BUS.pdb
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DAO.dll
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DTO.dll
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DAO.pdb
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DAO.dll.config
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.dll
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.pdb
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\BUS.dll
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\BUS.pdb
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DAO.dll
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DTO.dll
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DAO.pdb
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DAO.dll.config
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\DTO.pdb
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.dll
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\BUS\obj\Debug\BUS.pdb
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\BUS.dll
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\BUS.pdb
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\DAO.dll
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\DevExpressMods.dll
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\DTO.dll
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\EntityFramework.dll
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\DAO.pdb
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\DTO.pdb
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\DevExpressMods.xml
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\bin\Debug\EntityFramework.xml
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\obj\Debug\BUS.dll
+D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\BUS\obj\Debug\BUS.pdb
