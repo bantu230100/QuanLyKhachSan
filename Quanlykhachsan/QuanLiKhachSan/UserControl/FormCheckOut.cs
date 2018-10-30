@@ -30,36 +30,7 @@ namespace QuanLiKhachSan.UserControl
             btnThanhToan.Enabled = value;
             btnXoaHoaDon.Enabled = value;
         }
-        private void btnThemHoaDon_Click(object sender, EventArgs e)
-        {
-            txtTongTien.Text = txtTongTien.Text.Replace(" VNĐ", String.Empty);
-            dgvHoaDon.Rows.Add();
-            dgvHoaDon.Rows[numRow].Cells["colSTT"].Value = numRow + 1;
-            dgvHoaDon.Rows[numRow].Cells["colMaPhong"].Value = cmbMaPhong.Text;
-            dgvHoaDon.Rows[numRow].Cells["colSoNgayThue"].Value = txtSoNgayThue.Text;
-            dgvHoaDon.Rows[numRow].Cells["colDonGia"].Value = txtDonGia.Text;
-            dgvHoaDon.Rows[numRow].Cells["colPhuThu"].Value = txtPhuThu.Text;
-            dgvHoaDon.Rows[numRow].Cells["colHeSo"].Value = txtHeSo.Text;
-
-            btnThemHoaDon.Enabled = false;
-            decimal thanhtien = BillBUS.ThanhTien(int.Parse(txtSoNgayThue.Text), Convert.ToDecimal(txtDonGia.Text),
-                Convert.ToDecimal(txtPhuThu.Text), Convert.ToDecimal(txtHeSo.Text), Convert.ToDecimal(txtPhiDichVu.Text));
-            /*decimal thanhtien = HoaDonBUS.ThanhTien(int.Parse(txtSoNgayThue.Text), Convert.ToDecimal(txtDonGiaPhong.Text),
-               Convert.ToDecimal(txtPhuThu.Text), Convert.ToDecimal(txtHeSo.Text));*/
-            //dgvHoaDon.Rows[numRow].Cells["colThanhTien"].Value = thanhtien.ToString();
-            dgvHoaDon.Rows[numRow].Cells["colThanhTien"].Value = string.Format("{0:0,0}", thanhtien);
-            numRow++;
-
-            txtTongTien.Text = string.Format("{0:0,0 VNĐ}", (Convert.ToDecimal(txtTongTien.Text) + thanhtien));
-           // tongtien = string.Format("{0:0,0}", (Convert.ToDecimal(txtTongTien.Text) + thanhtien)) ;
-            //txtTongTien.Text = Convert.ToString( Convert.ToDecimal(txtTongTien.Text) + thanhtien);
-            ThietLapButton(true);
-            if (txtTenKhachHang.ToString() == "")
-            {
-                btnThanhToan.Enabled = false;
-            }
-        }
-
+       
         private void btnThanhToan_Click(object sender, EventArgs e)
         {
             bool success = true;
