@@ -69,28 +69,7 @@ namespace BUS
                 thanhtien = dg * snt * (1 + pt) + pdv;
             return thanhtien;
         }
-        /*public static decimal ThanhTien(int snt, decimal dg, decimal pt, decimal hs)
-        {
-            decimal thanhtien = 0;
-            if (snt == 0)
-            {
-                return (thanhtien = dg );
-            }
-            else
-            {
-                thanhtien = dg * snt;
-                thanhtien = thanhtien + dg * pt ;
-                if (hs != 0)
-                {
-                    thanhtien *= hs;
-                    return thanhtien;
-                }
-                else
-                {
-                    return thanhtien;
-                }
-            }
-        }*/
+      
 
         public static int? LayMaHDCuoiCung()
         {

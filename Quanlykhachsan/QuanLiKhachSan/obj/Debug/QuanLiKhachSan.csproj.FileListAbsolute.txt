@@ -1204,4 +1204,3 @@ D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-maste
 D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\QuanLiKhachSan\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
 D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
 D:\downloads\Dowloads\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
-C:\Users\DiUiEnGi\Desktop\New folder (2)\QUANLYKHACHSAN_G4_TEAM-master\QUANLYKHACHSAN_G4_TEAM-master\Project\Project Solution\Solution\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
