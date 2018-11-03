@@ -1,7 +1,5 @@
 # QUẢN LÍ KHÁCH SẠN
 
-**Đồ án cuối kì môn nhập môn công nghệ phần mềm**
-
 _**MÔ TẢ**_:
 >Nhằm nâng cao chất lượng các khách sạn, nhà nghỉ vừa và nhỏ, và việc quản lí khách sạn một cách đơn giản nhanh chóng và dễ dàng nên nhóm chọn đề tài Quản Lý Khách Sạn.
 
