@@ -14,21 +14,16 @@ _**CHỨC NĂNG CHÍNH**_:
 + Tính tổng doanh thu theo tháng của từng loại phòng
 
 _**CÔNG CỤ VÀ CÔNG NGHỆ SỬ DỤNG**_: 
-+ Visual studio 2017.
-+ Microsoft SQL Sever Management Studio 2017
++ Visual studio 2015.
++ Microsoft SQL Sever Management Studio 2015
 + Ngôn ngữ C# trên nền tảng .NET Framework 4.5.2
 + Entity Framework 5.0.0
-+ DevExpress 17.1
++ DevExpress 17.2
 + Crystal report for Visual Studio 2017
 
 _**MÔI TRƯỜNG CÀI ĐẶT**_:
 + Hệ điều hành Windows từ 7 trở về sau, phiên bản 32/64 bit.
 
-_**THÔNG TIN SINH VIÊN**_:
-+ Nguyễn Văn Hội - 16520456 
-+ Võ Quốc Huy - 16520538
-+ Huỳnh Trung Tuấn - 16521366
-+ Trần Quốc Hoàn - 12520150
 
 
-[![N|Solid](https://i.imgur.com/co6SMdm.png)](https://www.uit.edu.vn/)
+
